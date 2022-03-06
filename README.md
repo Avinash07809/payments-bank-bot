@@ -1,4 +1,111 @@
-# QnA Maker
+## PAYMENTS BANK FINANCIAL LITERACY DEPLOYMENT
+The project helps a huge mass foist off their financial problem, once the system aforementioned problem is digitalized. The problems (or potential) that intricates their life are they don't have bank account, they squander a lot of time and energy in queues and hectic bank environment, the property (physical) gets destroyed in calamities. These are the tenants of problems I want to tackle with.
+
+Bot through Azure will help people to get their questions about payments bank assured. It will help rural unbanked citizen dispense with financial illiteracy. 
+
+The Bot i.e., @Payments_Bank_Guide_Bot is deployed in Telegram, will assist citizens in getting their questions answered.
+
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/0.png)
+
+## FUNCTIONALITY
+The engagement with the person will begin with a warm greeting.
+
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/1.png)
+
+### The Various Queries On Payments Banks The User Can Ask Are:
+1.	What is Payments Bank? The bot's response will be : A payments bank is similar to a regular bank, except it operates on a smaller scale and does not take on any credit risk. It can perform most banking functions but not advance loans or issue credit cards.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/2.png)
+
+2.	Why was it created? The bot's response will be : The Reserve Bank of India (RBI) aims to improve financial service penetration in rural and remote areas of the country with 25% of its branches must be in the unbanked rural area.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/3.png)
+
+3.	How Can I differentiate a payments bank? In response, the bot will say : The banks’ uses "payments bank" in its name to differentiate it from other types of banks.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/4.png)
+
+4. What are the different types of Payments Bank? In response, the bot will say :
+   - Airtel Payments Bank
+   - India Post Payments Bank
+   - Fino Payments Bank
+   - Jio Payments Bank
+   - Paytm Payments Bank
+   - NSDL Payments Bank
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/5.png)
+
+5. How to open account in Payments Bank? The bot's response will be:
+   1. Proof of Identity:
+
+      Listed below are any one of the documents that can be submitted by the customer to verify his/her identity.
+      - PAN card
+      - Aadhaar Card
+      - Passport
+      - Driving License
+      - Voter’s ID
+      - Employee ID
+      - Bank passbook
+      - Ration card
+
+   2. Address proof
+   
+        The customer has to submit any of the below listed documents.
+        - Passport
+        - Aadhaar Card
+        - Utility bill
+        - Letter from a recognized public authority (gazetted officer) 
+        - Voter’s ID
+        - Ration card
+        - LIC policy/ receipt
+        - Driving License
+    
+    3. If you don’t have a Pan Card, you need to deposit Form 60 for this purpose.
+    ![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/6.png)
+ 
+6.	What are different interest rates on deposits? The bot's response will be : The interest on deposits varies for different banks, i.e., 2.25% - 6.25% depending on the size of the deposit.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/7.png)
+ 
+7.	What are services provided by these Banks? In response, the bot will say : It can carry out most banking operations but can’t advance loans or issue credit cards. It offers remittance services, mobile payments/transfers/purchases, insurance policies and other banking services like ATM/debit cards, net banking, and third-party fund transfers.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/8.png)
+
+8. What are the advantages of Payments Banks? In response, the bot will say : 
+   - Zero Balance Account from almost every payment bank
+   - Higher Interest Rate
+   - Very Convenient and user friendly
+   - Forms partnerships with shops in rural areas to provide banking services
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/9.png)
+
+9.	Is it safe to open an account with a Payments Bank? In response, the bot will say : Yes, because these governed by RBI.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/10.png)
+
+10.	Which act it is regulated by?   In response, the bot will say : Banking Regulation Act, 1949
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/11.png)
+
+11.	Who regulates these banks? The bot's answer will be : Reserve Bank of India
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/12.png)
+
+12.	Is it necessary for me to open an account with a payment bank? The bot's answer will be : If you live in a rural region of India or in a remote area of India, you should definitely consider this as a choice.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/13.png)
+
+13.	Is the transaction safe with these banks? In response, the bot will say : Because these banks are regulated by the Reserve Bank of India, your transactions are safe with them.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/14.png)
+
+14.	Will I get debit card facilities? In response, the bot will say : Yes
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/15.png)
+
+15.	What is the time of operation? The bot's response will be : Because the banks are digital, you can get help and services 24 hours a day, seven days a week.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/16.png)
+
+16.	What is the daily transaction limit? The bot's response will be : The transaction limit differs across these banks. 
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/17.png)
+
+17.	What is the range of operation? In response, the bot will say : It is effective both domestically and abroad.
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/18.png)
+
+18.	Will I Receive a Cheque Book? In response, the bot will say : Yes
+![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/19.png)
+
+
+# Technology Used:
+
+## QnA Maker
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
 
