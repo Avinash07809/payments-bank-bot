@@ -103,9 +103,7 @@ The engagement with the person will begin with a warm greeting.
 ![0](https://raw.githubusercontent.com/Avinash07809/payments-bank-bot/main/Screenshots/19.png)
 
 
-# Technology Used:
-
-## QnA Maker
+# QnA Maker
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
 
